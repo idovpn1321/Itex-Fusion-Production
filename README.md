@@ -1,23 +1,14 @@
 # Itex-Fusion-Production
 
-MIT License
+Copyright (c) 2024 Itex Fusion Production
+Licensed under the MIT License. See LICENSE file for details.
 
-Copyright (c) 2024 idovpn1321
+Usage Rights:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Use: You are free to use this project for personal or commercial purposes without restrictions.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Copy and Distribute: You can freely copy and redistribute this project in any format, whether in its original or modified form.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Modify: You are allowed to modify the project and create derivative works from the source code.
+
+No Warranty: This project is provided "as is," without any warranties. The author is not liable for any issues or damages that arise from using this project.
